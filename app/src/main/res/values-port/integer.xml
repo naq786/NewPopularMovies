@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="columns">2</integer>
+    <integer name="lines">7</integer>
+    <dimen name="border">25dp</dimen>
+    <dimen name="posterW">200dp</dimen>
+    <dimen name="posterH">200dp</dimen>
+</resources>

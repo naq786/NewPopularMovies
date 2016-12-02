@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layBorder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorouter"
+    android:orientation="vertical">
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridview_movies"
+        android:numColumns="@integer/columns"
+        android:stretchMode="columnWidth"
+        android:gravity="center">
+    </GridView>
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewPopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_popularity">POPULARITY</string>
+    <string name="label_rating">RATING</string>
+    <string name="pref_sorting">popularity</string>
+    <string name="pref_sorting_key">sorting</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_default_text">Large Text</string>
+    <string name="synopsis_default_text">Small Text</string>
+    <string name="rating_default_text">Large Text</string>
+    <string name="release_default_text">Small Text</string>
+    <string name="summary_text">Popularity and Rating Based Sorting</string>
+    <string name="settings_title">SORT MOVIES BY</string>
+    <string name="content_authority">com.example.nafeezq.newpopularmovies.app</string>
+    <string name="db_button">Add To Favorite</string>
+    <string name="action_favorite">Favorite Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+</resources>
